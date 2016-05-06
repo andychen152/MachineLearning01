@@ -1,0 +1,20 @@
+training.txt -> testing.txt
+True Positive Rate: 0.866667
+False Positive Rate: 0.0666667
+Error Rate: 0.0888889
+Accuracy Rate: 0.911111
+Precision Rate: 0.865106
+
+training2.txt -> testing2.txt
+True Positive Rate: 0.893333
+False Positive Rate: 0.0533333
+Error Rate: 0.0711111
+Accuracy Rate: 0.928889
+Precision Rate: 0.892324
+
+training3.txt -> testing3.txt
+True Positive Rate: 0.723333
+False Positive Rate: 0.138333
+Error Rate: 0.184444
+Accuracy Rate: 0.815556
+Precision Rate: 0.775213
